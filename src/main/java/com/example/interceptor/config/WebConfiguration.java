@@ -25,7 +25,7 @@ public class WebConfiguration {
 //	
 //	@Override
 //	public void addInterceptors(InterceptorRegistry registry) {
-//		registry.addInterceptor(generalpurposeInterceptor)
+//		registry.addInterceptor(generalpurposeInterceptor);
 //		registry.addInterceptor(singlePurposeInterceptor).addPathPatterns("/product/**");
 //	}
 
